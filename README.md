@@ -6,4 +6,5 @@ MyFirstProj
 3. _git commit_  
 4. _git pull_  
 5. _git checkout_  
+6. _git **branch**_  
 
